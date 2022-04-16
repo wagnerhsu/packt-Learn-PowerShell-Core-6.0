@@ -1,8 +1,13 @@
 ## 01 Current PowerShell Versions
 
+### Reference
+- Install and Configure WMF 5.1 [docs.microsoft.com](https://docs.microsoft.com/en-us/powershell/scripting/windows-powershell/wmf/setup/install-configure)
 ## 02 PowerShell ISE Versus VSCode
 
 ## 03 Basic Coding Techniques
+
+### Reference
+- The PowerShell Best Practices and Style Guide [github](https://github.com/PoshCode/PowerShellPracticeAndStyle)
 
 ## 04 Advanced Coding Techniques
 
